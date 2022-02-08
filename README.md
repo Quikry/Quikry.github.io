@@ -1,5 +1,6 @@
-
-
+<head>
+<title>tle html scaffold</title>
+</head>
 <body background="Tech.jpg">
 <img src="logo.jpg" width="20%" height="20%"><right>
 <font color="white">
@@ -17,3 +18,5 @@
 <td bgcolor="chartreuse"><font size="12"><font color="white"><b>ENGAGE NOW</b></td>
 </body>
 </html>
+
+
