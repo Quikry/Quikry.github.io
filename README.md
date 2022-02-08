@@ -1,4 +1,4 @@
-<head>
+
 </head>
 <body background="Tech.jpg">
 <img src="logo.jpg" width="20%" height="20%"><right>
