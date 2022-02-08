@@ -1,5 +1,5 @@
 <head>
-<body><title>tle html scaffold</title></body>
+title>tle html scaffold
 </head>
 <body background="Tech.jpg">
 <img src="logo.jpg" width="20%" height="20%"><right>
