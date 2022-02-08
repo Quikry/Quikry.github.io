@@ -1,4 +1,3 @@
-
 <head>
 <title>tle html scaffold</title>
 </head>
